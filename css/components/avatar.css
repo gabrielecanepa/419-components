@@ -1,0 +1,12 @@
+.avatar {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.avatar-sm {
+  width: 100px;
+  height: 100px;
+}
